@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap'); /* font-h1-and-h2.....*/
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap'); /* font-h1-and-h2..... font-family: "Outfit", sans-serif;*/
 
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');/* font-<p>-and-<ul>*/
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');/* font-<p>-and-<ul>   font-family: "Young Serif", serif;*/
 
 *{
     margin: 0;
